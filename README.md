@@ -1,4 +1,4 @@
 # Javascript-ImageTransformation
 basic image transformation
 
-very basic. 
+very basic. Incomplete.
