@@ -2,4 +2,4 @@
 basic image transformation
 
 very basic.
-hahaha
+HTML is best
